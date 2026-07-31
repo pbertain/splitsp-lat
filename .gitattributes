@@ -1,0 +1,2 @@
+html/downloads/*.bin filter=lfs diff=lfs merge=lfs -text
+html/logos/** filter=lfs diff=lfs merge=lfs -text

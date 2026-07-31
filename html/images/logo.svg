@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" width="900" height="300" role="img" aria-label="splitsp.lat logo">
+  <title>splitsp.lat</title>
+  <defs>
+    <filter id="puffOutline" x="-20%" y="-30%" width="140%" height="160%" filterUnits="objectBoundingBox">
+      <feMorphology in="SourceAlpha" operator="dilate" radius="9" result="dilated"/>
+      <feFlood flood-color="#8a3ffb" result="purpleFlood"/>
+      <feComposite in="purpleFlood" in2="dilated" operator="in" result="purpleOutline"/>
+      <feMerge>
+        <feMergeNode in="purpleOutline"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <g filter="url(#puffOutline)">
+    <g fill="#2196f3">
+      <rect x="60" y="90" width="780" height="140" rx="70"/>
+      <circle cx="100" cy="90" r="60"/>
+      <circle cx="220" cy="88" r="62"/>
+      <circle cx="340" cy="86" r="58"/>
+      <circle cx="460" cy="88" r="62"/>
+      <circle cx="580" cy="86" r="58"/>
+      <circle cx="700" cy="88" r="62"/>
+      <circle cx="820" cy="90" r="58"/>
+      <circle cx="180" cy="230" r="68"/>
+      <circle cx="380" cy="232" r="70"/>
+      <circle cx="580" cy="230" r="68"/>
+      <circle cx="780" cy="228" r="66"/>
+      <circle cx="855" cy="195" r="38"/>
+    </g>
+
+    <text x="454" y="182" text-anchor="middle" font-family="'Arial Rounded MT Bold','Baloo 2',sans-serif" font-weight="800" font-size="108" fill="#6fe86f">splitsp.lat</text>
+    <text x="448" y="177" text-anchor="middle" font-family="'Arial Rounded MT Bold','Baloo 2',sans-serif" font-weight="800" font-size="108" fill="#4fc3f7">splitsp.lat</text>
+    <text x="450" y="178" text-anchor="middle" font-family="'Arial Rounded MT Bold','Baloo 2',sans-serif" font-weight="800" font-size="108" fill="#f2a6de" stroke="#8a3ffb" stroke-width="4" paint-order="stroke fill" stroke-linejoin="round">splitsp.lat</text>
+  </g>
+</svg>
