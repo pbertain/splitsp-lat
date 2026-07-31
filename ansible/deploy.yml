@@ -1,0 +1,19 @@
+---
+- name: Deploy splitsp.lat static site
+  hosts: "{{ target | default('dev') }}"
+  gather_facts: false
+
+  tasks:
+    - name: Ensure deploy directory exists
+      ansible.builtin.file:
+        path: "{{ deploy_dir }}"
+        state: directory
+        mode: "0755"
+
+    - name: Sync site content
+      ansible.posix.synchronize:
+        src: "{{ playbook_dir }}/../html/"
+        dest: "{{ deploy_dir }}/"
+        delete: true
+        rsync_opts:
+          - "--exclude=.DS_Store"
