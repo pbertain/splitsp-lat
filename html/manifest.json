@@ -58,5 +58,1560 @@
     "path": "images/airpuff/wxapi-logo.png",
     "name": "wxapi-logo.png",
     "category": "images"
+  },
+  {
+    "path": "logos/wc/teamballs/alg_ball_logo.png",
+    "name": "alg_ball_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nhl/anaheim_ducks_logo.png",
+    "name": "anaheim_ducks_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/wc/teamballs/arg_ball_logo.png",
+    "name": "arg_ball_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nfl/arizona_cardinals_logo.png",
+    "name": "arizona_cardinals_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mlb/arizona_diamondbacks_logo.png",
+    "name": "arizona_diamondbacks_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mlb/athletics_logo.png",
+    "name": "athletics_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mlb/atlanta_braves_logo.png",
+    "name": "atlanta_braves_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/wnba/atlanta_dream_logo.png",
+    "name": "atlanta_dream_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nfl/atlanta_falcons_logo.png",
+    "name": "atlanta_falcons_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nba/atlanta_hawks_logo.png",
+    "name": "atlanta_hawks_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mls/atlanta_united_fc_logo.png",
+    "name": "atlanta_united_fc_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/atp/atp-logo-box.png",
+    "name": "atp-logo-box.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/atp/atp-logo.png",
+    "name": "atp-logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/atp/atp_logo.png",
+    "name": "atp_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/atp/atp_logo_box.png",
+    "name": "atp_logo_box.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/wc/teamballs/aus_ball_logo.png",
+    "name": "aus_ball_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mls/austin_fc_logo.png",
+    "name": "austin_fc_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/wc/teamballs/aut_ball_logo.png",
+    "name": "aut_ball_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mlb/baltimore_orioles_logo.png",
+    "name": "baltimore_orioles_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nfl/baltimore_ravens_logo.png",
+    "name": "baltimore_ravens_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/wc/teamballs/bel_ball_logo.png",
+    "name": "bel_ball_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/wc/teamballs/bih_ball_logo.png",
+    "name": "bih_ball_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nhl/boston_bruins_logo.png",
+    "name": "boston_bruins_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nba/boston_celtics_logo.png",
+    "name": "boston_celtics_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mlb/boston_red_sox_logo.png",
+    "name": "boston_red_sox_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/wc/teamballs/bra_ball_logo.png",
+    "name": "bra_ball_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nba/brooklyn_nets_logo.png",
+    "name": "brooklyn_nets_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nfl/buffalo_bills_logo.png",
+    "name": "buffalo_bills_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nhl/buffalo_sabres_logo.png",
+    "name": "buffalo_sabres_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nhl/calgary_flames_logo.png",
+    "name": "calgary_flames_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/wc/teamballs/can_ball_logo.png",
+    "name": "can_ball_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nhl/carolina_hurricanes_logo.png",
+    "name": "carolina_hurricanes_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nfl/carolina_panthers_logo.png",
+    "name": "carolina_panthers_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mls/cf_montreal_logo.png",
+    "name": "cf_montreal_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mls/cf_montréal_logo.png",
+    "name": "cf_montréal_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mls/charlotte_fc_logo.png",
+    "name": "charlotte_fc_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nba/charlotte_hornets_logo.png",
+    "name": "charlotte_hornets_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/ipl/chennai_super_kings_banner.png",
+    "name": "chennai_super_kings_banner.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/ipl/chennai_super_kings_logo.png",
+    "name": "chennai_super_kings_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nfl/chicago_bears_logo.png",
+    "name": "chicago_bears_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nhl/chicago_blackhawks_logo.png",
+    "name": "chicago_blackhawks_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nba/chicago_bulls_logo.png",
+    "name": "chicago_bulls_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mlb/chicago_cubs_logo.png",
+    "name": "chicago_cubs_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mls/chicago_fire_fc_logo.png",
+    "name": "chicago_fire_fc_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/wnba/chicago_sky_logo.png",
+    "name": "chicago_sky_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mlb/chicago_white_sox_logo.png",
+    "name": "chicago_white_sox_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nfl/cincinnati_bengals_logo.png",
+    "name": "cincinnati_bengals_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mlb/cincinnati_reds_logo.png",
+    "name": "cincinnati_reds_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/wc/teamballs/civ_ball_logo.png",
+    "name": "civ_ball_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nfl/cleveland_browns_logo.png",
+    "name": "cleveland_browns_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nba/cleveland_cavaliers_logo.png",
+    "name": "cleveland_cavaliers_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mlb/cleveland_guardians_logo.png",
+    "name": "cleveland_guardians_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/cloudpuff/cloudpuff-logo.png",
+    "name": "cloudpuff-logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/wc/teamballs/cod_ball_logo.png",
+    "name": "cod_ball_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/wc/teamballs/col_ball_logo.png",
+    "name": "col_ball_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nhl/colorado_avalanche_logo.png",
+    "name": "colorado_avalanche_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mls/colorado_rapids_logo.png",
+    "name": "colorado_rapids_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mlb/colorado_rockies_logo.png",
+    "name": "colorado_rockies_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nhl/columbus_blue_jackets_logo.png",
+    "name": "columbus_blue_jackets_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mls/columbus_crew_logo.png",
+    "name": "columbus_crew_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/wnba/connecticut_sun_logo.png",
+    "name": "connecticut_sun_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/wc/teamballs/cpv_ball_logo.png",
+    "name": "cpv_ball_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/wc/teamballs/cro_ball_logo.png",
+    "name": "cro_ball_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/wc/teamballs/cuw_ball_logo.png",
+    "name": "cuw_ball_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/wc/teamballs/cze_ball_logo.png",
+    "name": "cze_ball_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nfl/dallas_cowboys_logo.png",
+    "name": "dallas_cowboys_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nba/dallas_mavericks_logo.png",
+    "name": "dallas_mavericks_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nhl/dallas_stars_logo.png",
+    "name": "dallas_stars_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/wnba/dallas_wings_logo.png",
+    "name": "dallas_wings_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mls/dc_united_logo.png",
+    "name": "dc_united_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/ipl/delhi_capitals_banner.png",
+    "name": "delhi_capitals_banner.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/ipl/delhi_capitals_logo.png",
+    "name": "delhi_capitals_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nfl/denver_broncos_logo.png",
+    "name": "denver_broncos_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nba/denver_nuggets_logo.png",
+    "name": "denver_nuggets_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nfl/detroit_lions_logo.png",
+    "name": "detroit_lions_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nba/detroit_pistons_logo.png",
+    "name": "detroit_pistons_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nhl/detroit_red_wings_logo.png",
+    "name": "detroit_red_wings_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mlb/detroit_tigers_logo.png",
+    "name": "detroit_tigers_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/wc/teamballs/ecu_ball_logo.png",
+    "name": "ecu_ball_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nhl/edmonton_oilers_logo.png",
+    "name": "edmonton_oilers_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/wc/teamballs/egy_ball_logo.png",
+    "name": "egy_ball_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/wc/teamballs/eng_ball_logo.png",
+    "name": "eng_ball_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/wc/teamballs/esp_ball_logo.png",
+    "name": "esp_ball_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mls/fc_cincinnati_logo.png",
+    "name": "fc_cincinnati_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mls/fc_dallas_logo.png",
+    "name": "fc_dallas_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nhl/florida_panthers_logo.png",
+    "name": "florida_panthers_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/wc/teamballs/fra_ball_logo.png",
+    "name": "fra_ball_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/tennis/french_open/french-open-logo.png",
+    "name": "french-open-logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/cycling/gdi/gdi-logo-pink.png",
+    "name": "gdi-logo-pink.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/cycling/gdi/gdi-logo.png",
+    "name": "gdi-logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/wc/teamballs/ger_ball_logo.png",
+    "name": "ger_ball_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/wc/teamballs/gha_ball_logo.png",
+    "name": "gha_ball_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/wnba/golden_state_valkyries_logo.png",
+    "name": "golden_state_valkyries_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nba/golden_state_warriors_logo.png",
+    "name": "golden_state_warriors_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nfl/green_bay_packers_logo.png",
+    "name": "green_bay_packers_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/ipl/gujarat_titans_banner.png",
+    "name": "gujarat_titans_banner.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/ipl/gujarat_titans_logo.png",
+    "name": "gujarat_titans_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/wc/teamballs/hai_ball_logo.png",
+    "name": "hai_ball_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mlb/houston_astros_logo.png",
+    "name": "houston_astros_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mls/houston_dynamo_fc_logo.png",
+    "name": "houston_dynamo_fc_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nba/houston_rockets_logo.png",
+    "name": "houston_rockets_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nfl/houston_texans_logo.png",
+    "name": "houston_texans_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/wnba/indiana_fever_logo.png",
+    "name": "indiana_fever_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nba/indiana_pacers_logo.png",
+    "name": "indiana_pacers_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nfl/indianapolis_colts_logo.png",
+    "name": "indianapolis_colts_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mls/inter_miami_cf_logo.png",
+    "name": "inter_miami_cf_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/ipl/ipl-26-full-logo-rounded.png",
+    "name": "ipl-26-full-logo-rounded.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/ipl/ipl_logo.png",
+    "name": "ipl_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/ipl/ipl_oval_logo.png",
+    "name": "ipl_oval_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/ipl/ipl_rounded_logo.png",
+    "name": "ipl_rounded_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/ipl/ipl_rounded_logo_2025.png",
+    "name": "ipl_rounded_logo_2025.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/wc/teamballs/irn_ball_logo.png",
+    "name": "irn_ball_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/wc/teamballs/irq_ball_logo.png",
+    "name": "irq_ball_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nfl/jacksonville_jaguars_logo.png",
+    "name": "jacksonville_jaguars_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/wc/teamballs/jor_ball_logo.png",
+    "name": "jor_ball_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/wc/teamballs/jpn_ball_logo.png",
+    "name": "jpn_ball_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nfl/kansas_city_chiefs_logo.png",
+    "name": "kansas_city_chiefs_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mlb/kansas_city_royals_logo.png",
+    "name": "kansas_city_royals_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/ipl/kolkata_knight_riders_banner.png",
+    "name": "kolkata_knight_riders_banner.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/ipl/kolkata_knight_riders_logo.png",
+    "name": "kolkata_knight_riders_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/wc/teamballs/kor_ball_logo.png",
+    "name": "kor_ball_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/wc/teamballs/ksa_ball_logo.png",
+    "name": "ksa_ball_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/cycling/vae/la-vuelta-logo.png",
+    "name": "la-vuelta-logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nba/la_clippers_logo.png",
+    "name": "la_clippers_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mls/la_galaxy_logo.png",
+    "name": "la_galaxy_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/wnba/las_vegas_aces_logo.png",
+    "name": "las_vegas_aces_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nfl/las_vegas_raiders_logo.png",
+    "name": "las_vegas_raiders_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mlb/los_angeles_angels_logo.png",
+    "name": "los_angeles_angels_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nfl/los_angeles_chargers_logo.png",
+    "name": "los_angeles_chargers_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mlb/los_angeles_dodgers_logo.png",
+    "name": "los_angeles_dodgers_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mls/los_angeles_fc_logo.png",
+    "name": "los_angeles_fc_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nhl/los_angeles_kings_logo.png",
+    "name": "los_angeles_kings_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mlc/los_angeles_knight_riders_banner.png",
+    "name": "los_angeles_knight_riders_banner.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mlc/los_angeles_knight_riders_logo.png",
+    "name": "los_angeles_knight_riders_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mlc/los_angeles_knight_riders_logo_full.png",
+    "name": "los_angeles_knight_riders_logo_full.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mlc/los_angeles_knight_riders_logo_sm.png",
+    "name": "los_angeles_knight_riders_logo_sm.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nba/los_angeles_lakers_logo.png",
+    "name": "los_angeles_lakers_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nfl/los_angeles_rams_logo.png",
+    "name": "los_angeles_rams_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/wnba/los_angeles_sparks_logo.png",
+    "name": "los_angeles_sparks_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/ipl/lucknow_super_giants_banner.png",
+    "name": "lucknow_super_giants_banner.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/ipl/lucknow_super_giants_logo.png",
+    "name": "lucknow_super_giants_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/wc/teamballs/mar_ball_logo.png",
+    "name": "mar_ball_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nba/memphis_grizzlies_logo.png",
+    "name": "memphis_grizzlies_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/wc/teamballs/mex_ball_logo.png",
+    "name": "mex_ball_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mlc/mi_new_york_banner.png",
+    "name": "mi_new_york_banner.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mlc/mi_new_york_logo.png",
+    "name": "mi_new_york_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mlc/mi_new_york_logo_full.png",
+    "name": "mi_new_york_logo_full.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mlc/mi_new_york_logo_sm.png",
+    "name": "mi_new_york_logo_sm.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nfl/miami_dolphins_logo.png",
+    "name": "miami_dolphins_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nba/miami_heat_logo.png",
+    "name": "miami_heat_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mlb/miami_marlins_logo.png",
+    "name": "miami_marlins_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mlb/milwaukee_brewers_logo.png",
+    "name": "milwaukee_brewers_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nba/milwaukee_bucks_logo.png",
+    "name": "milwaukee_bucks_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/wnba/minnesota_lynx_logo.png",
+    "name": "minnesota_lynx_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nba/minnesota_timberwolves_logo.png",
+    "name": "minnesota_timberwolves_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mlb/minnesota_twins_logo.png",
+    "name": "minnesota_twins_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mls/minnesota_united_fc_logo.png",
+    "name": "minnesota_united_fc_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nfl/minnesota_vikings_logo.png",
+    "name": "minnesota_vikings_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nhl/minnesota_wild_logo.png",
+    "name": "minnesota_wild_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mlb/mlb_logo.png",
+    "name": "mlb_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mlc/mlc_banner.png",
+    "name": "mlc_banner.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mlc/mlc_logo.png",
+    "name": "mlc_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mlc/mlc_logo_sponsored.png",
+    "name": "mlc_logo_sponsored.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mls/mls_logo.png",
+    "name": "mls_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nhl/montreal_canadiens_logo.png",
+    "name": "montreal_canadiens_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/ipl/mumbai_indians_banner.png",
+    "name": "mumbai_indians_banner.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/ipl/mumbai_indians_logo.png",
+    "name": "mumbai_indians_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nasapuff/nasapuff-logo.png",
+    "name": "nasapuff-logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nhl/nashville_predators_logo.png",
+    "name": "nashville_predators_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mls/nashville_sc_logo.png",
+    "name": "nashville_sc_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nba/nba_logo.png",
+    "name": "nba_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/wc/teamballs/ned_ball_logo.png",
+    "name": "ned_ball_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nfl/new_england_patriots_logo.png",
+    "name": "new_england_patriots_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mls/new_england_revolution_logo.png",
+    "name": "new_england_revolution_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nhl/new_jersey_devils_logo.png",
+    "name": "new_jersey_devils_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nba/new_orleans_pelicans_logo.png",
+    "name": "new_orleans_pelicans_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nfl/new_orleans_saints_logo.png",
+    "name": "new_orleans_saints_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mls/new_york_city_fc_logo.png",
+    "name": "new_york_city_fc_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nfl/new_york_giants_logo.png",
+    "name": "new_york_giants_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nhl/new_york_islanders_logo.png",
+    "name": "new_york_islanders_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nfl/new_york_jets_logo.png",
+    "name": "new_york_jets_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nba/new_york_knicks_logo.png",
+    "name": "new_york_knicks_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/wnba/new_york_liberty_logo.png",
+    "name": "new_york_liberty_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mlb/new_york_mets_logo.png",
+    "name": "new_york_mets_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nhl/new_york_rangers_logo.png",
+    "name": "new_york_rangers_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mls/new_york_red_bulls_logo.png",
+    "name": "new_york_red_bulls_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mlb/new_york_yankees_logo.png",
+    "name": "new_york_yankees_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nfl/nfl_logo.png",
+    "name": "nfl_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nhl/nhl_logo.png",
+    "name": "nhl_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/wc/teamballs/nor_ball_logo.png",
+    "name": "nor_ball_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/wc/teamballs/nzl_ball_logo.png",
+    "name": "nzl_ball_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mlb/oakland_athletics_logo.png",
+    "name": "oakland_athletics_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nba/oklahoma_city_thunder_logo.png",
+    "name": "oklahoma_city_thunder_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mls/orlando_city_sc_logo.png",
+    "name": "orlando_city_sc_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nba/orlando_magic_logo.png",
+    "name": "orlando_magic_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nhl/ottawa_senators_logo.png",
+    "name": "ottawa_senators_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/wc/teamballs/pan_ball_logo.png",
+    "name": "pan_ball_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/wc/teamballs/par_ball_logo.png",
+    "name": "par_ball_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nba/philadelphia_76ers_logo.png",
+    "name": "philadelphia_76ers_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nfl/philadelphia_eagles_logo.png",
+    "name": "philadelphia_eagles_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nhl/philadelphia_flyers_logo.png",
+    "name": "philadelphia_flyers_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mlb/philadelphia_phillies_logo.png",
+    "name": "philadelphia_phillies_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mls/philadelphia_union_logo.png",
+    "name": "philadelphia_union_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/wnba/phoenix_mercury_logo.png",
+    "name": "phoenix_mercury_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nba/phoenix_suns_logo.png",
+    "name": "phoenix_suns_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nhl/pittsburgh_penguins_logo.png",
+    "name": "pittsburgh_penguins_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mlb/pittsburgh_pirates_logo.png",
+    "name": "pittsburgh_pirates_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nfl/pittsburgh_steelers_logo.png",
+    "name": "pittsburgh_steelers_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/wc/teamballs/por_ball_logo.png",
+    "name": "por_ball_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/wnba/portland_fire_logo.png",
+    "name": "portland_fire_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mls/portland_timbers_logo.png",
+    "name": "portland_timbers_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nba/portland_trail_blazers_logo.png",
+    "name": "portland_trail_blazers_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/cloudpuff/powered-by-puhfph-cloud-box-logo.png",
+    "name": "powered-by-puhfph-cloud-box-logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/cloudpuff/powered-by-puhfph-cloud-logo.png",
+    "name": "powered-by-puhfph-cloud-logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/cloudpuff/puffie-logo.png",
+    "name": "puffie-logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/ipl/punjab_kings_banner.png",
+    "name": "punjab_kings_banner.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/ipl/punjab_kings_logo.png",
+    "name": "punjab_kings_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/wc/teamballs/qat_ball_logo.png",
+    "name": "qat_ball_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/ipl/rajasthan_royals_banner.png",
+    "name": "rajasthan_royals_banner.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/ipl/rajasthan_royals_logo.png",
+    "name": "rajasthan_royals_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mls/real_salt_lake_logo.png",
+    "name": "real_salt_lake_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/ipl/royal_challengers_bangalore_banner.png",
+    "name": "royal_challengers_bangalore_banner.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/ipl/royal_challengers_bangalore_logo.png",
+    "name": "royal_challengers_bangalore_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/ipl/royal_challengers_bengaluru_banner.png",
+    "name": "royal_challengers_bengaluru_banner.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/ipl/royal_challengers_bengaluru_logo.png",
+    "name": "royal_challengers_bengaluru_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/wc/teamballs/rsa_ball_logo.png",
+    "name": "rsa_ball_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nba/sacramento_kings_logo.png",
+    "name": "sacramento_kings_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nba/san_antonio_spurs_logo.png",
+    "name": "san_antonio_spurs_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mls/san_diego_fc_logo.png",
+    "name": "san_diego_fc_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mlb/san_diego_padres_logo.png",
+    "name": "san_diego_padres_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nfl/san_francisco_49ers_logo.png",
+    "name": "san_francisco_49ers_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mlb/san_francisco_giants_logo.png",
+    "name": "san_francisco_giants_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mlc/san_francisco_unicorns_banner.png",
+    "name": "san_francisco_unicorns_banner.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mlc/san_francisco_unicorns_logo.png",
+    "name": "san_francisco_unicorns_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mlc/san_francisco_unicorns_logo_full.png",
+    "name": "san_francisco_unicorns_logo_full.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mlc/san_francisco_unicorns_logo_sm.png",
+    "name": "san_francisco_unicorns_logo_sm.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mls/san_jose_earthquakes_logo.png",
+    "name": "san_jose_earthquakes_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nhl/san_jose_sharks_logo.png",
+    "name": "san_jose_sharks_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/wc/teamballs/sco_ball_logo.png",
+    "name": "sco_ball_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nhl/seattle_kraken_logo.png",
+    "name": "seattle_kraken_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mlb/seattle_mariners_logo.png",
+    "name": "seattle_mariners_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mlc/seattle_orcas_banner.png",
+    "name": "seattle_orcas_banner.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mlc/seattle_orcas_logo.png",
+    "name": "seattle_orcas_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mlc/seattle_orcas_logo_full.png",
+    "name": "seattle_orcas_logo_full.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mlc/seattle_orcas_logo_sm.png",
+    "name": "seattle_orcas_logo_sm.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nfl/seattle_seahawks_logo.png",
+    "name": "seattle_seahawks_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mls/seattle_sounders_fc_logo.png",
+    "name": "seattle_sounders_fc_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/wnba/seattle_storm_logo.png",
+    "name": "seattle_storm_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/wc/teamballs/sen_ball_logo.png",
+    "name": "sen_ball_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mls/sporting_kansas_city_logo.png",
+    "name": "sporting_kansas_city_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/sportspuff/sportspuff-logo-circle.png",
+    "name": "sportspuff-logo-circle.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/sportspuff/sportspuff-logo.png",
+    "name": "sportspuff-logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nhl/st_louis_blues_logo.png",
+    "name": "st_louis_blues_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mlb/st_louis_cardinals_logo.png",
+    "name": "st_louis_cardinals_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mls/st_louis_city_sc_logo.png",
+    "name": "st_louis_city_sc_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/wc/teamballs/sui_ball_logo.png",
+    "name": "sui_ball_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/ipl/sunrisers_hyderabad_banner.png",
+    "name": "sunrisers_hyderabad_banner.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/ipl/sunrisers_hyderabad_logo.png",
+    "name": "sunrisers_hyderabad_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/wc/teamballs/swe_ball_logo.png",
+    "name": "swe_ball_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nfl/tampa_bay_buccaneers_logo.png",
+    "name": "tampa_bay_buccaneers_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nhl/tampa_bay_lightning_logo.png",
+    "name": "tampa_bay_lightning_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mlb/tampa_bay_rays_logo.png",
+    "name": "tampa_bay_rays_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/cycling/tdf/tdf-logo-box.png",
+    "name": "tdf-logo-box.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/cycling/tdf/tdf-logo.png",
+    "name": "tdf-logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/cycling/tdf/tdf_logo.png",
+    "name": "tdf_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/cycling/tdf/tdf_logo_box.png",
+    "name": "tdf_logo_box.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nfl/tennessee_titans_logo.png",
+    "name": "tennessee_titans_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mlb/texas_rangers_logo.png",
+    "name": "texas_rangers_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mlc/texas_super_kings_banner.png",
+    "name": "texas_super_kings_banner.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mlc/texas_super_kings_logo.png",
+    "name": "texas_super_kings_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mlc/texas_super_kings_logo_full.png",
+    "name": "texas_super_kings_logo_full.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mlc/texas_super_kings_logo_sm.png",
+    "name": "texas_super_kings_logo_sm.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mlb/toronto_blue_jays_logo.png",
+    "name": "toronto_blue_jays_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mls/toronto_fc_logo.png",
+    "name": "toronto_fc_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nhl/toronto_maple_leafs_logo.png",
+    "name": "toronto_maple_leafs_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nba/toronto_raptors_logo.png",
+    "name": "toronto_raptors_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/wnba/toronto_tempo_logo.png",
+    "name": "toronto_tempo_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/wc/teamballs/tun_ball_logo.png",
+    "name": "tun_ball_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/wc/teamballs/tur_ball_logo.png",
+    "name": "tur_ball_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/cycling/uci/uci-logo-125-years.png",
+    "name": "uci-logo-125-years.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/cycling/uci/uci-logo.png",
+    "name": "uci-logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/wc/teamballs/uru_ball_logo.png",
+    "name": "uru_ball_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/wc/teamballs/usa_ball_logo.png",
+    "name": "usa_ball_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nba/utah_jazz_logo.png",
+    "name": "utah_jazz_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nhl/utah_mammoth_logo.png",
+    "name": "utah_mammoth_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/wc/teamballs/uzb_ball_logo.png",
+    "name": "uzb_ball_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/cycling/vae/vae-logo.png",
+    "name": "vae-logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nhl/vancouver_canucks_logo.png",
+    "name": "vancouver_canucks_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mls/vancouver_whitecaps_fc_logo.png",
+    "name": "vancouver_whitecaps_fc_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nhl/vegas_golden_knights_logo.png",
+    "name": "vegas_golden_knights_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nhl/washington_capitals_logo.png",
+    "name": "washington_capitals_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nfl/washington_commanders_logo.png",
+    "name": "washington_commanders_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mlc/washington_freedom_banner.png",
+    "name": "washington_freedom_banner.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mlc/washington_freedom_logo.png",
+    "name": "washington_freedom_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mlc/washington_freedom_logo_full.png",
+    "name": "washington_freedom_logo_full.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mlc/washington_freedom_logo_sm.png",
+    "name": "washington_freedom_logo_sm.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/wnba/washington_mystics_logo.png",
+    "name": "washington_mystics_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/mlb/washington_nationals_logo.png",
+    "name": "washington_nationals_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nba/washington_wizards_logo.png",
+    "name": "washington_wizards_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/wc/wc-logo.png",
+    "name": "wc-logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/wc/wc-trophy-bare.png",
+    "name": "wc-trophy-bare.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/wc/wc-trophy.png",
+    "name": "wc-trophy.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/wc/wc_logo.png",
+    "name": "wc_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/wc/wc_logo_box.png",
+    "name": "wc_logo_box.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/sportspuff/winner-star.png",
+    "name": "winner-star.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/nhl/winnipeg_jets_logo.png",
+    "name": "winnipeg_jets_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/wnba/wnba_logo.png",
+    "name": "wnba_logo.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/wta/wta-logo-ball.png",
+    "name": "wta-logo-ball.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/wta/wta-logo-box-plain.png",
+    "name": "wta-logo-box-plain.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/wta/wta-logo-box.png",
+    "name": "wta-logo-box.png",
+    "category": "logos"
+  },
+  {
+    "path": "logos/wta/wta-logo.png",
+    "name": "wta-logo.png",
+    "category": "logos"
   }
 ]
