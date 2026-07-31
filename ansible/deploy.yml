@@ -17,3 +17,33 @@
         delete: true
         rsync_opts:
           - "--exclude=.DS_Store"
+
+    - name: Deploy nginx site config
+      become: true
+      ansible.builtin.copy:
+        src: "{{ playbook_dir }}/../config/{{ config_env }}/nginx/sites-available/41-splitsp-lat-nginx.conf"
+        dest: /etc/nginx/sites-available/41-splitsp-lat-nginx.conf
+        mode: "0644"
+
+    - name: Deploy apache2 site config
+      become: true
+      ansible.builtin.copy:
+        src: "{{ playbook_dir }}/../config/{{ config_env }}/apache2/sites-available/41-splitsp-lat-apache2.conf"
+        dest: /etc/apache2/sites-available/41-splitsp-lat-apache2.conf
+        mode: "0644"
+
+    - name: Enable nginx site
+      become: true
+      ansible.builtin.file:
+        src: ../sites-available/41-splitsp-lat-nginx.conf
+        dest: /etc/nginx/sites-enabled/41-splitsp-lat-nginx.conf
+        state: link
+        force: true
+
+    - name: Enable apache2 site
+      become: true
+      ansible.builtin.file:
+        src: ../sites-available/41-splitsp-lat-apache2.conf
+        dest: /etc/apache2/sites-enabled/41-splitsp-lat-apache2.conf
+        state: link
+        force: true
