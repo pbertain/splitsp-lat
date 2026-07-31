@@ -47,3 +47,27 @@
         dest: /etc/apache2/sites-enabled/41-splitsp-lat-apache2.conf
         state: link
         force: true
+
+    - name: Test nginx configuration
+      become: true
+      ansible.builtin.command: nginx -t
+      changed_when: false
+      check_mode: false
+
+    - name: Test apache2 configuration
+      become: true
+      ansible.builtin.command: apache2ctl configtest
+      changed_when: false
+      check_mode: false
+
+    - name: Reload nginx
+      become: true
+      ansible.builtin.systemd:
+        name: nginx
+        state: reloaded
+
+    - name: Reload apache2
+      become: true
+      ansible.builtin.systemd:
+        name: apache2
+        state: reloaded

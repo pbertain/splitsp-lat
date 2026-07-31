@@ -1,0 +1,41 @@
+name: Deploy Dev
+
+on:
+  push:
+    branches: [dev]
+
+permissions:
+  contents: read
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          lfs: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Install Ansible
+        run: |
+          pip install ansible
+          ansible-galaxy collection install -r ansible/requirements.yml
+
+      - name: Configure SSH
+        run: |
+          mkdir -p ~/.ssh
+          printf '%s\n' "${{ secrets.ANSIBLE_DEV_SSH_KEY }}" > ~/.ssh/nirdclub__id_ed25519
+          chmod 600 ~/.ssh/nirdclub__id_ed25519
+          ssh-keyscan -H host78.nird.club >> ~/.ssh/known_hosts 2>/dev/null
+
+      - name: Deploy to dev
+        working-directory: ansible
+        run: |
+          ansible-playbook -i inventory/hosts.yml deploy.yml \
+            -e target=dev \
+            -e ansible_ssh_private_key_file=~/.ssh/nirdclub__id_ed25519
